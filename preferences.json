@@ -1,0 +1,26 @@
+{
+  "audit-trail-plugin": {
+    "baselineMinAge": {
+      "value": "1y",
+      "ref": "https://github.com/jenkinsci/cloudbees-disk-usage-simple-plugin/pull/97#issuecomment-1842430268"
+    }
+  },
+  "cloudbees-disk-usage-simple-plugin": {
+    "baselineMinAge": {
+      "value": "1y",
+      "ref": "https://github.com/jenkinsci/cloudbees-disk-usage-simple-plugin/pull/97#issuecomment-1842430268"
+    }
+  },
+  "cloudbees-jenkins-advisor-plugin": {
+    "baselineMinAge": {
+      "value": "1y",
+      "ref": "https://github.com/jenkinsci/cloudbees-disk-usage-simple-plugin/pull/97#issuecomment-1842430268"
+    }
+  },
+  "shelve-project-plugin": {
+    "baselineMinAge": {
+      "value": "1y",
+      "ref": "https://github.com/jenkinsci/cloudbees-disk-usage-simple-plugin/pull/97#issuecomment-1842430268"
+    }
+  }
+}
