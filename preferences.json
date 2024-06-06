@@ -22,5 +22,11 @@
       "value": "1y",
       "ref": "https://github.com/jenkinsci/cloudbees-disk-usage-simple-plugin/pull/97#issuecomment-1842430268"
     }
+  },
+  "token-macro-plugin": {
+    "signed": {
+      "value": "true",
+      "ref": "https://github.com/jenkinsci/token-macro-plugin/pull/190#issuecomment-1667073208"
+    }
   }
 }
