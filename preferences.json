@@ -28,5 +28,11 @@
       "value": "true",
       "ref": "https://github.com/jenkinsci/token-macro-plugin/pull/190#issuecomment-1667073208"
     }
+  },
+  "trilead-api-plugin": {
+    "baselineMinAge": {
+      "value": "6m",
+      "ref": "https://github.com/jenkinsci/trilead-api-plugin/pull/164#issuecomment-2271163696"
+    }
   }
 }
